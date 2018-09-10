@@ -12,6 +12,10 @@
 		"bin-debug/LoadingUI.js",
 		"bin-debug/Main.js",
 		"bin-debug/Platform.js",
-		"bin-debug/ThemeAdapter.js"
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/DrawBoard/Board.js",
+		"bin-debug/DrawBoard/Line.js",
+		"bin-debug/DrawBoard/Pen.js",
+		"bin-debug/DrawBoard/ShapeExample.js"
 	]
 }

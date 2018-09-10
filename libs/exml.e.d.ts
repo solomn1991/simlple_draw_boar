@@ -1,3 +1,7 @@
+declare class BoardSkin extends eui.Skin{
+}
+declare class PenSkin extends eui.Skin{
+}
 declare module skins{
 	class ButtonSkin extends eui.Skin{
 	}
