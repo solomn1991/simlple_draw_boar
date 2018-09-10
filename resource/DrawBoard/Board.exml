@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BoardSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="165bc47962e" ></w:Config>
+	<e:Rect fillColor="0xffffff" left="0" right="0" top="0" bottom="0"/>
+	<ns1:Pen id="pen" width="20" height="20" x="242" y="181"/>
+</e:Skin>
